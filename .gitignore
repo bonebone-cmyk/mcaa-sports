@@ -1,0 +1,10 @@
+node_modules/
+data/
+*.log
+.DS_Store
+.node/
+.node-tmp/
+node.zip
+node.tgz
+.wrangler/
+.dev.vars
